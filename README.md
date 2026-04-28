@@ -73,5 +73,23 @@ Teacher Nest Consultancy is India’s leading faculty hiring platform helping in
 
 ---
 
+## Related Resources
+
+- https://github.com/TeachernestConsultancy/iit-jee-faculty-hiring-india  
+- https://github.com/TeachernestConsultancy/neet-faculty-hiring-india  
+- https://github.com/TeachernestConsultancy/faculty-hiring-india  
+
+---
+
+## External Resources
+
+- https://www.teachernestconsultancy.in/hire-iit-jee-neet-teachers-in-delhi  
+- https://www.teachernestconsultancy.in/hire-iit-jee-neet-teachers-in-patna  
+- https://www.teachernestconsultancy.in/hire-iit-jee-neet-teachers-in-kolkata  
+
+---
+
 ## Source
+
+Teacher Nest Consultancy  
 https://www.teachernestconsultancy.in/
